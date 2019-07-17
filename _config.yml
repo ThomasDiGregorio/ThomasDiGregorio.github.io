@@ -1,11 +1,11 @@
 # Site settings
-author: salubrious-pipe-1423
-title: 
+author: Thomas DiGregorio
+title: Developer Talk
 header-img: img/home-bg.png
 email: digregoriothomas@yahoo.com
-copyright_name: salubrious-pipe-1423
+copyright_name: Thomas DiGregorio
 description: > # this means to ignore newlines until "baseurl:"
-  
+  speaking code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ThomasDiGregor6
 github_username:  ThomasDiGregorio
